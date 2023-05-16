@@ -150,6 +150,18 @@ a:hover {
   width: 100px;
   height: 100px;
 }
+.navbar-item input {
+  border-bottom: 1px solid #3432325f;
+}
+.navbar-item__search {
+  display: flex;
+  align-items: center;
+}
+.navbar-item__search-button {
+  margin-left: 5px;
+  width: 30px;
+  height: 30px;
+}
 .booking-algorithm {
   margin-bottom: 100px;
 }
